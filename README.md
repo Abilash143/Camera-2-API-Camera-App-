@@ -4,6 +4,6 @@
 
 ## Description
 
-Its an native Java - Camera feature, inside the App with Camera 2 API.
+Its an native Java - Camera feature, inside the App using Camera 2 API.
 
 Take picture and store it in Gallery.
